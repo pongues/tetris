@@ -1,0 +1,13 @@
+body {
+	margin: 0;
+}
+
+#canvas {
+	width: 100%;
+	background-color: #F0F0F0
+}
+
+#buttontable {
+	position: absolute;
+	bottom: 0;
+}

@@ -1,0 +1,6 @@
+.inputkey {
+	background-color: white;
+}
+.inputkey:focus {
+	background-color: lightblue;
+}
